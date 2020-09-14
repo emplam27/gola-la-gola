@@ -2,7 +2,7 @@
 
 ### 배포주소
 
-> https://i3b309.p.ssafy.io
+> http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/
 
 ### 프로젝트명
 
