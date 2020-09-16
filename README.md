@@ -4,6 +4,18 @@
 
 
 
+
+
+<iframe width="800" height=450" src="https://www.youtube.com/embed/1Tk_EgY8Pv8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
 ### 주제
 
 > 마트 재고관리 및 구매유도 플랫폼
