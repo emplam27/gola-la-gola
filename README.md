@@ -1,14 +1,16 @@
-## Gola la Gola
+# Gola la Gola
 
-> http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/
-
-
+http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/
 
 
 
-<iframe width="800" height=450" src="https://www.youtube.com/embed/1Tk_EgY8Pv8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## UCC
+
+https://www.youtube.com/watch?v=1Tk_EgY8Pv8&ab_channel=%EA%B9%80%EC%9A%A9%EC%9A%B1
 
 
+
+주제, 관리자 페이지, 이벤트 페이지, 백엔드 구조, Rest 정리, 
 
 
 
@@ -81,8 +83,6 @@
 
 ### License
 
-> Copyright by Gola la Gola Co., Ltd. All rights reserved.
->
 > ### 해당 홈페이지는 비영리 목적으로 제작되었으며, 모든 내용들은 허구임을 밝힙니다.
 >
 > 배너 관련 이미지들은 미리캔버스를 참조하였으며, 모든 저작권은 미리캔버스에 있습니다. 
@@ -91,4 +91,4 @@
 >
 > 상품 관련 내용과 이미지들은 SSG.COM을 참조하였으며, 모든 저작권은 SSG.COM에 있습니다.
 >
->  https://member.ssg.com/policies/terms.ssg#ag_24
+> https://member.ssg.com/policies/terms.ssg#ag_24
