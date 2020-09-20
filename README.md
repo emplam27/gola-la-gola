@@ -65,20 +65,6 @@ https://www.youtube.com/watch?v=1Tk_EgY8Pv8&ab_channel=%EA%B9%80%EC%9A%A9%EC%9A%
 
 
 
-#### 폴더 구조
-
-* Front
-
-  > React Code
-
-* back
-
-  > MySQL, NodeJS, Express
-
-* asset
-
-  > Project Images
-
 
 
 ### License
