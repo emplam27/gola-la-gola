@@ -2,11 +2,7 @@
 
 http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/
 
-
-
-## UCC
-
-https://www.youtube.com/watch?v=1Tk_EgY8Pv8&ab_channel=%EA%B9%80%EC%9A%A9%EC%9A%B1
+[골라라 골라 UCC 보러가기](https://www.youtube.com/watch?v=1Tk_EgY8Pv8&ab_channel=%EA%B9%80%EC%9A%A9%EC%9A%B1)
 
 
 
