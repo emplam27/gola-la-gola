@@ -7,7 +7,15 @@
 
 
 
-메인 동영상 하나
+
+
+
+
+
+
+#### 결제하기
+
+<img src="readme_asset/결제하기.gif" alt="결제하기" style="zoom:80%;" />
 
 
 
