@@ -40,7 +40,7 @@
 
 
 
-![결제하기 저화질](readme_asset/결제하기 저화질.gif)
+![asdfasdf](readme_asset/결제하기 저화질.gif)
 
 
 
