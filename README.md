@@ -2,9 +2,9 @@
 
 > 배포 주소: http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/ 
 > 
-> UCC: https://www.youtube.com/watch?v=1Tk_EgY8Pv8
+> UCC 보러가기: https://www.youtube.com/watch?v=1Tk_EgY8Pv8
 
-
+![골라라골라_고화질본 (1)](readme_asset/골라라골라_고화질본 (1).png)
 
 <br/>
 
