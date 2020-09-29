@@ -4,7 +4,7 @@
 > 
 > UCC 보러가기: https://www.youtube.com/watch?v=1Tk_EgY8Pv8
 
-![골라라골라_고화질본 (1)](readme_asset/골라라골라_고화질본 (1).png)
+![image_)](readme_asset/image_0.png)
 
 <br/>
 
