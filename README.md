@@ -17,7 +17,10 @@
 Table of Contents
 -----------------
 
-* [역할 및 기술스택](#1-역할-및-기술스택)
+* [역할 및 기술](#1-역할-및-기술)
+  * [주요 역할](#주요-역할)
+  * [기술스택](#기술스택)
+  * [시스템 구조도](#시스템-구조도)
 * [골라라 골라는?](#2-골라라-골라는)
 * [골라라 골라 기획의도](#3-골라라-골라-기획의도)
   * [문제 의식](#문제-의식)
@@ -36,7 +39,7 @@ Table of Contents
 
 <br/>
 
-## 1. 역할 및 기술스택
+## 1. 역할 및 기술
 
 
 
@@ -50,7 +53,13 @@ Fullstack 개발 - 서비스 UX 기획, Frontend 페이지 제작([관리자 페
 
 
 
-<img src="https://user-images.githubusercontent.com/44697835/91255493-dbb35200-e79f-11ea-9180-a6dd1d5011bc.png" alt="image"  />
+![골라라 골라 기술 스택](https://user-images.githubusercontent.com/44697835/91255493-dbb35200-e79f-11ea-9180-a6dd1d5011bc.png)
+
+
+
+### 시스템 구조도
+
+![골라라 골라 아키텍쳐](https://user-images.githubusercontent.com/60080670/95559970-867f8700-0a53-11eb-9657-7573594833b4.jpg)
 
 <br/>
 
