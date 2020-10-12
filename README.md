@@ -59,7 +59,7 @@ Fullstack 개발 - 서비스 UX 기획, Frontend 페이지 제작([관리자 페
 
 ### 시스템 구조도
 
-![골라라 골라 아키텍쳐](https://user-images.githubusercontent.com/60080670/95559970-867f8700-0a53-11eb-9657-7573594833b4.jpg)
+![골라라골라 아키텍쳐](https://user-images.githubusercontent.com/60080670/95744828-f5b4df80-0cce-11eb-9cf6-9429775e838e.jpg)
 
 <br/>
 
