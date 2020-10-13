@@ -135,7 +135,7 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 <br/>
 
-[:arrow_up:목차로](#Table-of-Contents)](#Table of Contents)
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
@@ -149,7 +149,7 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 <br/>
 
-[:arrow_up:목차로](#Table-of-Contents)](#Table of Contents)
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
@@ -165,7 +165,7 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 <br/>
 
-[:arrow_up:목차로](#Table-of-Contents)](#Table of Contents)
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
@@ -179,7 +179,7 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 <br/>
 
-[:arrow_up:목차로](#Table-of-Contents)](#Table of Contents)
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
@@ -195,7 +195,7 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 <br/>
 
-[:arrow_up:목차로](#Table-of-Contents)](#Table of Contents)
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
@@ -209,7 +209,7 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 <br/>
 
-[:arrow_up:목차로](#Table-of-Contents)](#Table of Contents)
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
@@ -223,7 +223,7 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 <br/>
 
-[:arrow_up:목차로](#Table-of-Contents)](#Table of Contents)
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
