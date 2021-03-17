@@ -1,7 +1,5 @@
 # Gola la Gola(골라라 골라)
 
-> 배포 주소: http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/ 
-> 
 > UCC 보러가기: https://www.youtube.com/watch?v=1Tk_EgY8Pv8
 
 ![image_)](readme_asset/image_0.png)
@@ -171,8 +169,6 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 ### 메인페이지 & 검색
 
-> http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/
->
 > 매장에 존재하는 재고 정보를 확인, 검색할 수 있습니다.
 
 ![gif_image_5](readme_asset/gif_image_5.gif)
@@ -201,8 +197,6 @@ VS 이벤트 쿠폰   | 유사한 두가지 재고상품에 대한 행사를 진
 
 ### VS 이벤트 모아보기
 
-> http://ec2-3-129-217-136.us-east-2.compute.amazonaws.com/eventall
->
 > VS 이벤트를 진행중인 상품들을 모아보고, 한번에 쿠폰을 발급받을 수 있습니다.
 
 ![gif_image_3](readme_asset/gif_image_3.gif)
